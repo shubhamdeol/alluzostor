@@ -40,9 +40,7 @@ sections:
         image: images/feature3.png
         title: 'Daily Sales Report and More '
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     title: Features
     type: featuresblock
   - bg: white
