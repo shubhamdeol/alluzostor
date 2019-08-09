@@ -36,7 +36,7 @@ sections:
         price: Rs 499/Monthly
         title: Premium
     section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: ''
     title: Pricing Plans
     type: pricingblock
   - bg: gray
