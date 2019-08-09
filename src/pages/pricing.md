@@ -12,7 +12,7 @@ sections:
           * Bluetooth Printing 
           * Daily Sales 
           * Weekly Email
-        price: 0 Rs
+        price: Rupees 0/Monthly
         title: Free
       - actions:
           - label: Order Now
@@ -23,7 +23,7 @@ sections:
           * Daily Email
           *  + All Free Features
         highlight: true
-        price: Rs 99/Monthly
+        price: Rupees 99/Monthly
         title: Basic
       - actions:
           - label: Order Now
@@ -33,7 +33,7 @@ sections:
           * Alluzo Waiter App 
           * Alluzo Customer App
           * +All Basic Feature
-        price: Rs 499/Monthly
+        price: Rupees 499/Monthly
         title: Premium
     section_id: pricing
     subtitle: ''
