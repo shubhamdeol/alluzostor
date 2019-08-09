@@ -64,12 +64,13 @@ sections:
     title: Testimonials
     type: reviewsblock
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Install App Now
+        url: >-
+          https://play.google.com/store/apps/details?id=com.ekeekaran.alluzo.store
     component: CtaBlock
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ''
+    title: 'Register on Alluzo Store App to get in touch with us - '
     type: ctablock
   - bg: gray
     component: PostsBlock
