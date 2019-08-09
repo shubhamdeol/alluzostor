@@ -28,12 +28,13 @@ sections:
     title: The Best Features of Your Services
     type: contentblock
   - actions:
-      - label: Get Started
-        url: '#'
+      - label: Install App
+        url: >-
+          https://play.google.com/store/apps/details?id=com.ekeekaran.alluzo.store
     component: CtaBlock
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
+    subtitle: ''
+    title: Register on Alluzo Store App to get in touch with us
     type: ctablock
 menus:
   main:
