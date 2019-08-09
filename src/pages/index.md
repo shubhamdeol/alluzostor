@@ -8,7 +8,7 @@ sections:
     content: >-
       Your digital shop for Restaurants, Food truck, Laundry & Daily Needs
       Shops.
-    image: /images/undraw_referral_4ki4.png
+    image: /images/undraw_referral_4ki4.svg
     section_id: home
     title: Digital Raseed Book
     type: heroblock
