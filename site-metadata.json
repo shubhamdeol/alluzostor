@@ -3,7 +3,7 @@
   "palette": "green",
   "header": {
     "title": "Alluzo",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/icon.png",
     "has_nav": true,
     "menu": {
       "actions": [
