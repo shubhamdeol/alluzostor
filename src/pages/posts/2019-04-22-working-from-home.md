@@ -1,26 +1,36 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Alluzo Partner is a service for retail vendors to start selling online.
 date: '2019-04-22'
-thumb_img_path: images/9_thumb.jpg
-content_img_path: images/9.jpg
+thumb_img_path: /images/undraw_android_jr64.png
+content_img_path: /images/undraw_destination_6jtj.svg
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  We use technology to make ordering online efficient and accessible from every
+  retail local stores. We give start to end solution to manage from ordering to
+  delivery at customer’s doorstep.
 template: post
 ---
+**STEP- 1 Download the Alluzo Partner App**
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+**Any shop owner around the world can download our vendor app register his/her shop.**
 
-## Advantages and Disadvantages 
+**STEP- 2 Register your shop on the App**
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+**In the registration process, we ask you to fill your shop name, your shop location and phone number.**
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+**Note- Give your shop’s counter phone number, preferably keep a phone for receiving call and a smartphone for managing the app**
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+**STEP-3 Upload your products**
 
-## Types Of Work
+**Upload 5 products you want to sell online to your regular customers, try to add varied product categories.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+**STEP-4 Let our team do rest**
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+**Our team will contact you to verify the details and complete your on-boarding process.**
+
+**STEP-5 Put banners around**
+
+**We send marketing materials, like poster & others of your shop in your email address. Print them and display at your shop.**
+
+**STEP-6 Start serving your customer better.**
+
+**Voila, your customers can now order online and you can deliver at their doorstep.**
