@@ -1,19 +1,19 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/company/14752290/admin/"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "url": "https://twitter.com/alluzoapp"
+    },
+    {
+      "type": "instagram",
+      "title": "Instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ]
 }
