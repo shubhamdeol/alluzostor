@@ -1,36 +1,36 @@
 {
-    "title": "Alluzo Store(Digital Raseed Book)",
-    "palette": "green",
-    "header": {
-        "title": "Alluzo",
-        "logo_img": "images/logo.png",
-        "has_nav": true,
-        "menu": {
-            "actions": [
-                {
-                    "label": "Sign Up",
-                    "url": "/signup"
-                }
-            ]
+  "title": "Alluzo Store(Digital Raseed Book)",
+  "palette": "green",
+  "header": {
+    "title": "Alluzo",
+    "logo_img": "images/logo.png",
+    "has_nav": true,
+    "menu": {
+      "actions": [
+        {
+          "label": "Sign Up",
+          "url": "/signup"
         }
-    },
-    "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
-        "has_nav": true,
-        "nav_title": "Company",
-        "has_social": true,
-        "social_title": "Community",
-        "has_subscribe": true,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
+      ]
     }
+  },
+  "footer": {
+    "subscribe_title": "Subscribe",
+    "subscribe_content": "Stay up to date with our latest developments.",
+    "has_subscribe": true,
+    "social_title": "Community",
+    "tagline": "Alluzo Store App by Ekeekaran Ventures pvt ptd",
+    "logo_img": "/images/icon.png",
+    "has_social": true,
+    "content": "&copy; Stackbit. All rights reserved.",
+    "links": [
+      {
+        "text": "Made with Stackbit",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ],
+    "nav_title": "Company",
+    "has_nav": true
+  }
 }
