@@ -1,94 +1,86 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: hero
-    title: This Is A Big Hero Headline
-    component: HeroBlock
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
+  - actions:
       - label: Learn More
         url: /features
-  - type: featuresblock
-    section_id: features
-    title: Features
+    component: HeroBlock
+    content: >-
+      Your digital shop for Restaurants, Food truck, Laundry & Daily Needs
+      Shops.
+    image: images/hero.png
+    section_id: home
+    title: Digital Raseed Book
+    type: heroblock
+  - bg: gray
     component: FeaturesBlock
+    featureslist:
+      - actions:
+          - label: Learn More
+            url: /features
+        content: >-
+          Send WhatsApp bills to your customer for Free. Take the counter order.
+          Edit and Delete Bills to maintain digital Raseed Book and generate
+          GST, Packaging Charges and More
+        image: images/feature1.png
+        title: 'FREE WhatsApp Bills '
+      - actions:
+          - label: Learn More
+            url: /features
+        content: >-
+          Alluzo Store App is a simple 0% commission and 0 investment digital
+          shop solution for small vendors to start selling online to their
+          regular customer
+        image: images/feature2.png
+        title: Sell Online at 0% Commission
+      - actions:
+          - label: Learn More
+            url: /features
+        content: Get InApp daily sales reports and weekly emails.
+        image: images/feature3.png
+        title: 'Daily Sales Report and More '
+    section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    bg: gray
-    featureslist:
-      - title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: reviewsblock
-    section_id: reviews
-    title: Testimonials
+    title: Features
+    type: featuresblock
+  - bg: white
     component: ReviewsBlock
+    reviews:
+      - author: '-Shirin(Owner), RAJDHANI CHATKARE  (RESTAURANT, IIT DELHI)'
+        avatar: images/review1.jpg
+        content: >-
+          -Alluzo has increased our sales by 10% within 2 months, we are able to
+          reach out to many more customer by taking online orders.
+      - author: '-Preetam (Owner) HAPPY CHEMICAL CAFE (FOOD TRUCK, GURGAON)'
+        avatar: images/review2.jpg
+        content: >-
+          Using Kitchen and waiter app helps us take more order and delivery it
+          easily. Reports is also something which is game changer 
+    section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: ctablock
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    component: CtaBlock
-    subtitle: This is an optional description for the call to action block.
-    actions:
+    title: Testimonials
+    type: reviewsblock
+  - actions:
       - label: Get Started
         url: /signup
-  - type: postsblock
+    component: CtaBlock
+    section_id: call-to-action
+    subtitle: This is an optional description for the call to action block.
+    title: This Is Call To Action Block!
+    type: ctablock
+  - bg: gray
+    component: PostsBlock
     section_id: recent-posts
     title: Latest Posts
-    component: PostsBlock
-    bg: gray
+    type: postsblock
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
+
