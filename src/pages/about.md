@@ -38,7 +38,7 @@ Our goal is to democratize ordering service for its adoption in masses. It is pr
 \
 \
 Ordering Service\
-We have developed our application for Web, Android & iOS platform. It is opmitised and responsive to work on all form factors of mobile, tablet and desktop.
+We have developed our application for Web, Android & iOS platform. It is optimised and responsive to work on all form factors of mobile, tablet and desktop.
 
 We are always pleased to hear from high-calibre individuals. We would stress that we are headhunting for executives right now.Send your resume at ashutosh@ekeekaran.com
 
