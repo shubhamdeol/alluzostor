@@ -6,5 +6,4 @@ menus:
     weight: 3
 template: contact
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+Write to us to get a FREE Demo
