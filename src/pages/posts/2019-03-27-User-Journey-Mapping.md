@@ -1,5 +1,5 @@
 ---
-title: A Guide To User Journey Mapping
+title: Bring your store in front of your customer’s doorstep.
 subtitle: >-
   Tired of managing your delivery boy and remembering change for each order,
   writing down phone number & address on a slip and explaining the route to the
