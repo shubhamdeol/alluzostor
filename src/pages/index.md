@@ -36,7 +36,10 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: Get InApp daily sales reports and weekly emails.
+        content: >-
+          Alluzo Store App gives you daily sales reports and sends weekly
+          analytics emails. Create staff log in to know the breakdown of sales
+          on each counter.
         image: /images/iphone-x-xs-–-21.png
         title: 'Daily Sales Report and More '
     section_id: features
