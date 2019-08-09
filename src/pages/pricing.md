@@ -5,8 +5,8 @@ sections:
     component: PricingBlock
     pricingplans:
       - actions:
-          - label: Order Now
-            url: /signup
+          - label: Install App Now
+            url: 'https://play.google.com/store/search?q=alluzo'
         details: |-
           * WhatsApp Bills
           * Bluetooth Printing 
