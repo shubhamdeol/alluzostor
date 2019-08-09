@@ -60,9 +60,7 @@ sections:
           Using Kitchen and waiter app helps us take more order and delivery it
           easily. Reports is also something which is game changer 
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: ''
     title: Testimonials
     type: reviewsblock
   - actions:
