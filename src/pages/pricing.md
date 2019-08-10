@@ -48,7 +48,7 @@ sections:
           mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
           tristique enim. Pellentesque habitant morbi tristique senectus et
           netus et malesuada fames ac turpis egestas.
-        question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+        question: Does Basic Plan Include Printer?
       - answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
@@ -64,7 +64,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
         question: Sed scelerisque in ipsum eu sollicitudin?
     section_id: faq
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: ''
     title: Frequently Asked Questions
     type: faqblock
 menus:
