@@ -1,8 +1,9 @@
 ---
-title: 'Why You Should Use Alluzo Store App '
+title: Why You Should Use Alluzo Store App?
+subtitle: Increase your sales by 10% in first month and upto 30% by third month.
 date: '2019-03-10'
-thumb_img_path: images/12_thumb.jpg
-content_img_path: images/12.jpg
+thumb_img_path: /images/undraw_destinations_fpv7.svg
+content_img_path: /images/undraw_mobile_prototyping_grmd.svg
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
