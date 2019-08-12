@@ -56,6 +56,12 @@ sections:
           Yes WhatsApp bills are absolutely free. Upload your menu and start
           sending WhatsApp Bills now
         question: Is WhatsApp bills free?
+      - answer: >-
+          Instantaneously, once you have completed the payment. If not then
+          contact us through help segment of Alluzo Store App.
+        question: When will my Basic/ Premium get activated?
+      - question: What are the benefits of Basic Account?
+      - {}
     section_id: faq
     subtitle: ''
     title: Frequently Asked Questions
