@@ -43,26 +43,19 @@ sections:
     component: FaqBlock
     faqitems:
       - answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-        question: Does Basic Plan Include Printer?
+          You can purchase bluetooth thermal printer from the links give in the
+          Help segment of Alluzo Store App. Once, you have purchased the printer
+          you can connect it Alluzo Store App to take out bills
+        question: How can I do Paper Billing?
       - answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-        question: Aliquam eget purus ante?
+          Printer gets connected automatically.  For first time you need to
+          connect Alluzo Store App with printer. After that every-time you open
+          app printer gets connected , just like your bluetooth earphones.
+        question: 'Does printer needs to be paired, everytime? '
       - answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-        question: Sed scelerisque in ipsum eu sollicitudin?
+          Yes WhatsApp bills are absolutely free. Upload your menu and start
+          sending WhatsApp Bills now
+        question: Is WhatsApp bills free?
     section_id: faq
     subtitle: ''
     title: Frequently Asked Questions
