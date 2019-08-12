@@ -1,23 +1,42 @@
 ---
-title: Sales as a Service
-subtitle: A interesting tale about Sales
+title: 'Alluzo Billing Machine '
+subtitle: App alluzo app se ek chhote blootooth thermal printer ko moblie phone
 date: '2018-01-15'
-thumb_img_path: images/4_thumb.jpg
-content_img_path: images/4.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus. 
+thumb_img_path: /images/undraw_arrived_f58d.svg
+content_img_path: /images/undraw_arrived_f58d.svg
+excerpt: ''
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum purus. Aliquam mauris est, posuere vitae ornare quis, volutpat eget felis. Sed rhoncus hendrerit dapibus. Vestibulum sed turpis a turpis ultrices vehicula. Morbi vulputate eros eu vulputate maximus. Donec aliquam, nulla eget vestibulum luctus, nisi mi porttitor sem, ut varius ipsum nunc vel augue. Nam ante magna, tempor non sapien id, rhoncus vestibulum ipsum. Sed placerat quam sed rutrum efficitur. Duis diam purus, molestie viverra lectus eu, facilisis fringilla quam. Vivamus ut lectus id neque ullamcorper sollicitudin non sagittis massa. Quisque bibendum tincidunt dolor at interdum. Suspendisse vehicula quis sem et tincidunt.
-
-Donec tempor quis sapien sit amet tempor. Phasellus at erat erat. Vestibulum elementum venenatis porta. Proin non leo in ante dictum dictum. Integer suscipit euismod elit. Phasellus vel libero ante. Nunc varius felis in ex convallis, id luctus nulla feugiat. Proin imperdiet dictum erat, sed egestas augue elementum at. Nunc vel feugiat dolor. Cras et laoreet lorem. Aenean elementum tempor malesuada. Morbi quis commodo augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ac pellentesque velit.
-
-Mauris a rhoncus purus, ac tincidunt dui. Phasellus lobortis rhoncus dolor, egestas hendrerit lorem lobortis nec. Duis eu condimentum felis. In eros mi, accumsan vitae nisl non, ultricies luctus risus. Proin vitae libero lacus. Nullam ut efficitur magna. Praesent quis eros ac augue blandit ultrices eu et leo. Sed molestie enim ipsum, et auctor diam suscipit vitae. Curabitur sed nisi sit amet lorem feugiat sodales. Etiam elementum ornare nisl eget porta. Donec nec facilisis lorem. Duis luctus elit eu purus fermentum, id pharetra nibh porttitor. Phasellus vel libero non erat mattis viverra.
-
-Donec et eros euismod tellus congue bibendum vitae sit amet lacus. Nam tempus at nunc eget elementum. Quisque tincidunt diam nulla, eget finibus risus dignissim ut. Fusce eget tincidunt mi, sit amet sollicitudin neque. Cras facilisis ex at massa pretium, ut sollicitudin neque rutrum. Quisque tincidunt purus congue, auctor augue quis, aliquet dui. Nullam orci risus, congue non faucibus in, blandit et leo. Suspendisse eu purus blandit, ultricies orci non, accumsan velit. Suspendisse convallis nisi et vehicula congue. Etiam iaculis nisi mauris, vel ultricies erat egestas quis. Vivamus eros urna, lacinia nec elit euismod, auctor cursus elit. Nunc lobortis hendrerit efficitur. Vivamus ultricies, metus et semper aliquet, ligula elit pulvinar nisi, non ultricies eros velit id felis. Phasellus blandit felis quam, id accumsan arcu luctus non.
-
-Aliquam blandit facilisis ultricies. Ut hendrerit tellus id nunc interdum vehicula. Proin feugiat arcu a mi mattis, in semper lectus sagittis. Mauris rhoncus vestibulum magna, nec vestibulum orci porta quis. Vivamus at ante ullamcorper, commodo risus vel, facilisis diam. Vivamus nec dui bibendum mauris consectetur hendrerit. Morbi a lacus in risus convallis cursus et ut leo. Aliquam vitae aliquam justo. Curabitur efficitur sapien vel dolor mollis interdum dignissim eget lorem. Maecenas aliquam molestie felis vel sollicitudin. Nulla auctor nisl mattis sapien pulvinar, vel sollicitudin eros pellentesque. Nullam bibendum at metus ac mollis.
 
 
+
+Purani mechanical biling masheen kee keemat lagabhag 15,000 hai, aur yadi aap ek digital pos khareedana chaahate hain to isakee keemat lagabhag 1,00,000 rs hogee kyonki aapako ek desktop copmuter, printar, power backup ki bhi zarurat hogi. 
+
+
+
+App alluzo app se ek chhote blootooth thermal printer ko moblie phone se connect sakte ho aur bill nikal sakte ho aap iss par GST bhi jod sakate hain Maine appne liye amazon aur flipkart se printer kharedne ki link description mein daal diya hai. Iski kimart kewal Rs 3,500 hi hai. Kyoonki yah ek thermal printar hai, isliye isme ink ki zarurat nahi hai. Alluzo store app purani mechanical billing machine is bhi sasta hai aur aapako feature deta hai jo ek 1,00,000 computer pos mein milta hai. Alluzo store ke maadhyam aap rojj ke sales report dekh sakte ho, aap analytics kar sakte hai ki kaun sa saman adhik bik raha hai aur aapako kya banaana chaahiye ya stock adhik mein chaahie. 
+
+
+
+Ab mai aapke samne alag alag feature mein ye saare Point of Sale Solution ko compare kar lete hai. 
+
+
+
+Sabse pahle baat karte hai billing ki,toh teeno ki hi billing speed same hai, billing machine kaafi aachi hai par isme bill karne ke liye aapko har product ka code yaar rakhna padta hai,isliye hum isse 10 mein 7 denge. Computer system bhi aacha hai lekin isse liye aapke counter boy ko keyboard aur mouse mein operate karna padega.Isliye hum iss bhi 7 number dete hai. Aur alluzo touch based hai isko koi bhi chala sakta hai, isliye isko 9 number dete hai. 
+
+
+
+Ab baat karte hai Reports & analytics ke access ki, billing machine mein aapko din ke anat mein ek z report milta hai isme koi analytics nahi milti isliye hum isse kewal 5 hi denge. Computer software mein aapko daily report ke saath analytics bhi milta hai, aur ke kaafi aacha hota hai, lekin aapko reports dekne ke liye copmuter access hona chahiye issliye hum isse 8 denge. Alluzo Pos mein aapko same analytics milta hai aur ab isse kabhi apne mobile phone se access kar sakte hai iss liye inhe 9 ank milta hai. 
+
+
+
+
+
+Ab baat karte hai ease of use or flexibility ko, toh computer pos ek bahut jagah leta hai aur aapko power back up bhi/electicity bhi chaiye. Alluzo POS ek hand held system hai aap chahe toh isse tablet ke saath bhi use kar sakte hai aur printer 8-9 ghnate ka battery back up deta hai, ya ek food joint or moving wagon ke liye perfect solution hai. App isske saath Restaurent mein Alluzo kitchen aur Alluzo waiter app bhi use kar sakte apne process ko aur smooth kar sakte hai. Issle isme hum Alluzo POS ko 10 mein 10 denge. 
+
+
+
+
+
+Ab baat kar hai iski laagat ki toh aapka Billing machine 15k ka aata hai aur Desktop Pos ki keemat 1,00,000 ke apko upar lagega. Wahi Alluzo POS aisa innovate solution hai ki ye aapko kewal 3,500 ka ek printer lena hai phir aap alluzo store application bilkul free use kar sakte ho.
