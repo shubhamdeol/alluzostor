@@ -1,5 +1,6 @@
 ---
-title: Important Links
+title: Alluzo Store App- Important Links
+subtitle: ''
 date: '2019-03-24'
 thumb_img_path: /images/icon.png
 content_img_path: /images/undraw_mobile_login_ikmv.png
