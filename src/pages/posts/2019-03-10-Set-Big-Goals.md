@@ -1,5 +1,5 @@
 ---
-title: Why You Should Set Big Goals
+title: 'Why You Should Use Alluzo Store App '
 date: '2019-03-10'
 thumb_img_path: images/12_thumb.jpg
 content_img_path: images/12.jpg
