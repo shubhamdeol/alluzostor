@@ -1,6 +1,10 @@
 {
   "links": [
     {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/channel/UCqBo8veZehab3wazpL8rR7g/featured"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/company/14752290/admin/"
@@ -13,11 +17,7 @@
     {
       "type": "instagram",
       "title": "Instagram",
-      "url": "https://www.instagram.com/"
-    },
-    {
-      "title": "YouTube",
-      "url": "https://www.youtube.com/channel/UCqBo8veZehab3wazpL8rR7g/featured"
+      "url": "https://www.instagram.com/AlluzoApp"
     }
   ]
 }
