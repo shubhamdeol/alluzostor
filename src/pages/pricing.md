@@ -43,6 +43,25 @@ sections:
     component: FaqBlock
     faqitems:
       - answer: >-
+          Increase your sales by 10% in first month and upto 30% by third month.
+          Increasing sales is simple, you should send bills using WhatsApp. It
+          has link of your online shop. Though which your customers can order
+          online. Once you send WhatsApp bill Alluzo Store app adds the customer
+          in your directory. Which you can use to send your promotional message
+          and increase your sales further.
+        question: What are benefits of Premium account?
+      - answer: >-
+          You Digital Raseed Book. Using Alluzo Store App, you can send WhatsApp
+          bills, take our Paper bills/KOT using cost effective (Rs 2,700) yet
+          robust  Bluetooth Printer. At the end of the day you will reports with
+          sales, payment & other details. You can create staff login to manage 
+          your shop remotely
+        question: What are the benefits of Basic Account?
+      - answer: >-
+          Instantaneously, once you have completed the payment. If not then
+          contact us through help segment of Alluzo Store App.
+        question: When will my Basic/ Premium get activated?
+      - answer: >-
           You can purchase bluetooth thermal printer from the links give in the
           Help segment of Alluzo Store App. Once, you have purchased the printer
           you can connect it Alluzo Store App to take out bills
@@ -56,12 +75,6 @@ sections:
           Yes WhatsApp bills are absolutely free. Upload your menu and start
           sending WhatsApp Bills now
         question: Is WhatsApp bills free?
-      - answer: >-
-          Instantaneously, once you have completed the payment. If not then
-          contact us through help segment of Alluzo Store App.
-        question: When will my Basic/ Premium get activated?
-      - question: What are the benefits of Basic Account?
-      - {}
     section_id: faq
     subtitle: ''
     title: Frequently Asked Questions
