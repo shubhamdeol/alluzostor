@@ -1,21 +1,31 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+title: Online sales karke Aullzo se aapna sales bhadaiye
+subtitle: 'Iska ek sabse aasan tareka ye hai ki app apne, grahako online beche.'
 date: '2018-01-11'
-thumb_img_path: images/5_thumb.jpg
-content_img_path: images/5.jpg
-excerpt: >-
-  Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
-  interdum, massa massa tempor ante.
+thumb_img_path: /images/undraw_credit_card_3ed6.svg
+content_img_path: /images/undraw_map_dark_k9pw.svg
+excerpt: ''
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dapibus est a dolor iaculis vulputate. Mauris libero nulla, commodo sit amet tempus quis, finibus cursus tellus. Duis non velit vel velit euismod elementum. Aliquam porta et nisl id mattis. Fusce vitae massa orci. Ut euismod ornare orci ac interdum. Morbi vulputate ullamcorper purus eu dictum. Vestibulum ac neque faucibus lectus egestas volutpat in vitae velit. Morbi elementum nibh libero, ac ultricies metus laoreet ac. Nam tempus ligula a nulla tincidunt, sit amet semper sapien condimentum.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque aliquet ante sed odio pellentesque malesuada at id turpis. Nulla porta ipsum ac augue vulputate varius. Aenean tempor risus rhoncus congue egestas. Donec laoreet tempus tempus. Sed erat erat, elementum ut feugiat at, facilisis ut massa. Duis ultricies ex a mauris sodales euismod. Donec placerat bibendum arcu non rutrum. Praesent quis risus enim. Morbi efficitur lectus at diam cursus ultrices. Integer ut erat eget erat posuere interdum. Ut risus nunc, hendrerit a sagittis id, scelerisque sed ipsum.
 
-Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat interdum, massa massa tempor ante, in gravida dui quam at nibh. Nullam egestas purus nulla, vitae posuere turpis egestas nec. Nam at porttitor massa, sed luctus nibh. Vestibulum varius accumsan orci sed finibus. Quisque suscipit est nisl, et feugiat nunc dictum in. Maecenas pellentesque nulla vel sodales cursus. Nulla venenatis sem a dui sagittis vehicula.
 
-Etiam interdum finibus neque, vel bibendum diam volutpat et. Nunc volutpat ante at nibh tempus malesuada. Proin pretium sed tellus eget porttitor. Praesent convallis varius magna in pharetra. Nunc quis venenatis massa. In euismod dictum porta. Donec aliquam mauris dignissim odio auctor dictum.
+Toh aaye ab hum se baat karte hai ki app apni bikree kaise badha sakate hain. Iska ek sabse aasan tareka ye hai ki app apne, grahako online beche.
 
-Suspendisse a dui auctor purus accumsan ullamcorper. In maximus nunc nec fermentum posuere. Cras id ipsum in elit consectetur elementum. Mauris mollis mollis orci non rutrum. Phasellus facilisis convallis hendrerit. Curabitur at erat id odio tincidunt placerat. Sed efficitur, lacus nec viverra dapibus, ligula libero commodo eros, eu aliquam nunc risus in nisi. Curabitur sed malesuada metus. Ut fringilla, arcu non bibendum ornare, justo erat condimentum neque, ut pulvinar leo leo interdum mauris. Integer nulla augue, rutrum vitae nulla quis, cursus mollis justo.
+
+
+Aaj ka graahak call karke ordar dene ke bajaay  app se aasaanee se ordar karna pasand karate hain.
+
+ab, aap bhi alluzo application ke maadhyam se online bikree kar sakate hain.  aap is app ko play store se download kar sakate hain aur vikretaon ke roop mein apana shop bana le. , phir aapke dvaara beche jaane vaale saman online karde. Iske baad aapakee dukaan ke 500 meetar ke daayare mein aapaka shop (Map view with nearby society coming inside it), online dikhne lagega. App is photo mein dekh sakte hai kaise maine aapne pass wali housing society ke saare saare building aur gharo ko aapne radius ke aandar le liya hai. 
+
+> Yah pooree prakriya bahut saral hai aap isse 5 minute mein app khud se kar sakate hain. Aap phir apne counter mein poster laga ke aapne grahak ko ye bata sakte ho ki ab wo ghar baithe online order bhi kar sakte hai. App Alluzo Pilot App ki madad se ek professional delivery experience bhi de sakte hai. 
+
+
+
+
+
+Toh doston issi ke saath ye video khatam hua, aap alluzo store ka jyaada se jyaada istemaal kare, aur mujhe bataye ki appko ye solution kaise lag raha hai. 
+
+vivek@alluzo.com\
+<https://www.youtube.com/watch?v=oCl16At2iME&t=1s>
