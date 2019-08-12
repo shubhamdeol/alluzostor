@@ -70,7 +70,7 @@ sections:
     component: CtaBlock
     section_id: call-to-action
     subtitle: ''
-    title: 'Register on Alluzo Store App to get in touch with us - '
+    title: 'Register on Alluzo Store App - '
     type: ctablock
   - bg: gray
     component: PostsBlock
