@@ -6,11 +6,11 @@ sections:
         url: /features
     component: HeroBlock
     content: >-
-      Your digital shop for Restaurants, Food truck, Laundry & Daily Needs
-      Shops.
+      Alluzo Store is Digital Raseed Book & 0% commission online orders for
+      Restaurants, Food truck, Laundry & Daily Needs Shops.
     image: /images/undraw_referral_4ki4.svg
     section_id: home
-    title: Digital Raseed Book
+    title: FREE WhatsApp Bills & Online Orders
     type: heroblock
   - bg: gray
     component: FeaturesBlock
