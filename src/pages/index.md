@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
+  - actions: []
     component: HeroBlock
     content: >-
       Alluzo Store is Digital Raseed Book & 0% commission online orders for
@@ -15,27 +13,21 @@ sections:
   - bg: gray
     component: FeaturesBlock
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Send WhatsApp bills to your customer for Free. Take the counter order.
           Edit and Delete Bills to maintain digital Raseed Book and generate
           GST, Packaging Charges and More
         image: /images/iphone-x-xs-–-26-1-.png
         title: 'FREE WhatsApp Bills '
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Alluzo Store App is a simple 0% commission and 0 investment digital
           shop solution for small vendors to start selling online to their
           regular customer
         image: /images/iphone-x-xs-–-27.png
         title: Sell Online at 0% Commission
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Alluzo Store App gives you daily sales reports and sends weekly
           analytics emails. Create staff log in to know the breakdown of sales
