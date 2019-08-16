@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: ''
 img_path: /images/undraw_game_day_ucx9.png
 menus:
   secondary:
