@@ -41,16 +41,19 @@ sections:
   - bg: white
     component: ReviewsBlock
     reviews:
-      - author: '-Shirin(Owner), RAJDHANI CHATKARE  (RESTAURANT, IIT DELHI)'
-        avatar: images/review1.jpg
+      - author: '-Shahid(Owner), Rajdhani Chatkare  (Restaurant, Hauz Khas, New Delhi)'
+        avatar: /images/screenshot-2019-08-16-at-5.00.34-pm.png
         content: >-
           -Alluzo has increased our sales by 10% within 2 months, we are able to
           reach out to many more customer by taking online orders.
-      - author: '-Preetam (Owner) HAPPY CHEMICAL CAFE (FOOD TRUCK, GURGAON)'
-        avatar: images/review2.jpg
+      - author: >-
+          -Preetam (Owner) Happy Chemical Cafe (Food Truck, Leisure Valley,
+          Gurgaon)
+        avatar: /images/screenshot-2019-08-16-at-5.01.37-pm.png
         content: >-
           Using Kitchen and waiter app helps us take more order and delivery it
-          easily. Reports is also something which is game changer 
+          easily. Reports is also something which is game changer
+          https://www.youtube.com/watch?v=JgqSaTn6OFs
     section_id: reviews
     subtitle: ''
     title: Testimonials
