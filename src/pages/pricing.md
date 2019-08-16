@@ -16,7 +16,7 @@ sections:
         title: Free
       - actions:
           - label: Order Now
-            url: /signup
+            url: 'https://p-y.tm/Aimi-HL '
         details: |-
           * Unlimited Customers
           *  5 Staff Login
@@ -27,7 +27,7 @@ sections:
         title: Basic
       - actions:
           - label: Order Now
-            url: /signup
+            url: 'https://p-y.tm/8rv-WNd '
         details: |-
           * Alluzo Delivery App 
           * Alluzo Waiter App 
