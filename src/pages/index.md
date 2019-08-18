@@ -52,8 +52,8 @@ sections:
         avatar: /images/screenshot-2019-08-16-at-5.01.37-pm.png
         content: >-
           Using Kitchen and waiter app helps us take more order and delivery it
-          easily. Reports is also something which is game changer
-          https://www.youtube.com/watch?v=JgqSaTn6OFs
+          easily. Reports is also something which is game
+          changer                                              
     section_id: reviews
     subtitle: ''
     title: Testimonials
