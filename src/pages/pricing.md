@@ -30,6 +30,7 @@ sections:
           - label: Order Now
             url: 'https://p-y.tm/8rv-WNd '
         details: |-
+          * 0% Commission Online Order 
           * Alluzo Delivery App 
           * Alluzo Waiter App 
           * Alluzo Customer App
