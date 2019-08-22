@@ -24,7 +24,7 @@ sections:
           * Priority Customer Support
           * +All Free Features
         highlight: true
-        price: Rupees 99/Monthly
+        price: 'Rs 99/Monthly or 999/Yearly '
         title: Basic
       - actions:
           - label: Order Now
@@ -35,7 +35,7 @@ sections:
           * Alluzo Waiter App 
           * Alluzo Customer App
           * +All Basic Feature
-        price: Rupees 499/Monthly
+        price: 'Rs 499/Monthly or 4999/Yearly '
         title: Premium
     section_id: pricing
     subtitle: ''
