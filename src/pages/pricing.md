@@ -9,8 +9,8 @@ sections:
             url: 'https://play.google.com/store/search?q=alluzo'
         details: |-
           * FREE WhatsApp Bills
-          * Daily Sales Reports 
-          * GST, Packaging & Discount 
+          * Add Packaging Cost 
+          * Daily Sales Reports
           * Weekly Detailed Emails
         price: Rupees 0/Monthly
         title: Free
@@ -18,10 +18,11 @@ sections:
           - label: Order Now
             url: 'https://p-y.tm/Aimi-HL '
         details: |-
+          * Connect Bluetooth Printer 
           * Create Staff Logins 
-          * Add Customer Contacts 
-          * Detailed Daily Emails 
-          * All Free Features
+          * Include GST & Discount  
+          * Priority Customer Support
+          * +All Free Features
         highlight: true
         price: Rupees 99/Monthly
         title: Basic
