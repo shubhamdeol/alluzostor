@@ -7,26 +7,26 @@ import CtaButtons from './CtaButtons';
 export default class PricingBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className={'block pricing-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
-              <div className="block-header inner-small">
-                <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+            <section id={_.get(this.props, 'section.section_id')} class={'block pricing-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
+              <div class="block-header inner-small">
+                <h2 class="block-title">{_.get(this.props, 'section.title')}</h2>
                 {_.get(this.props, 'section.subtitle') && 
-                <p className="block-subtitle">
+                <p class="block-subtitle">
                   {htmlToReact(_.get(this.props, 'section.subtitle'))}
                 </p>
                 }
               </div>
               {_.get(this.props, 'section.pricingplans') && 
-              <div className="inner">
-                <div className="grid">
+              <div class="inner">
+                <div class="grid">
                   {_.map(_.get(this.props, 'section.pricingplans'), (plan, plan_idx) => (
-                  <div key={plan_idx} className={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
-                    <div className="plan-inside">
-                    <h3 className="plan-name">{_.get(plan, 'title')}</h3>
+                  <div key={plan_idx} class={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
+                    <div class="plan-inside">
+                    <h3 class="plan-name">{_.get(plan, 'title')}</h3>
                     {_.get(plan, 'price') && 
-                    <div className="plan-price">{_.get(plan, 'price')}</div>
+                    <div class="plan-price">{_.get(plan, 'price')}</div>
                     }
-                    <div className="plan-details">
+                    <div class="plan-details">
                       {markdownify(_.get(plan, 'details'))}
                     </div>
                     {_.get(plan, 'actions') && 
