@@ -8,8 +8,8 @@ sections:
           - label: Install App Now
             url: 'https://play.google.com/store/search?q=alluzo'
         details: |-
-          * FREE WhatsApp Bills
-          * Add Packaging Cost 
+          * Send WhatsApp Bills
+          * Add Product & Categories  
           * Daily Sales Reports
           * Weekly Detailed Emails
         price: Rupees 0/Monthly
