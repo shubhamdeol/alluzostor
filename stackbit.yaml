@@ -1,5 +1,13 @@
-stackbitVersion: ~0.2.39
+stackbitVersion: ~0.2.0
+ssgName: gatsby
+ssgVersion: 0.1.12
+buildCommand: ./ssg-build.sh
+publishDir: public
+staticDir: static
 uploadDir: images
+dataDir: src/data
+pagesDir: src/pages
+pageLayoutKey: template
 metadata:
   title: Azimuth
   description: A sleek SaaS theme
@@ -8,6 +16,11 @@ metadata:
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
+stackbit_banner:
+  show_banner: true
+  name: Azimuth
+  create_url: 'https://app.stackbit.com/create?theme=azimuth'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
 models:
   config:
     type: config
@@ -712,13 +725,3 @@ models:
         description: >-
           The identifier of a menu item could be used as a parent menu of
           another menu item
-stackbit_banner:
-  show_banner: true
-  name: Azimuth
-  create_url: 'https://app.stackbit.com/create?theme=azimuth'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
-pagesDir: content
-staticDir: static
-ssgName: gatsby
-publishDir: public
-buildCommand: ./ssg-build.sh
