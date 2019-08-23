@@ -20,7 +20,7 @@ sections:
         details: |-
           * Connect Bluetooth Printer 
           * Create Staff Logins 
-          * Include GST & Discount  
+          * GST, Discount & Packaging  
           * Priority Customer Support
           * +All Free Features
         highlight: true
