@@ -34,7 +34,7 @@ sections:
           * Alluzo Delivery App  
           * Alluzo Waiter App 
           * Alluzo Customer App
-          * +All Basic Feature
+          * +All Basic Features
         price: 'Rupees 499/Monthly '
         title: Premium
     section_id: pricing
