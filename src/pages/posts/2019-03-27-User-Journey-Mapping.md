@@ -5,8 +5,8 @@ subtitle: >-
   writing down phone number & address on a slip and explaining the route to the
   delivery boy?
 date: '2019-03-27'
-thumb_img_path: /images/undraw_business_shop_qw5t.svg
-content_img_path: /images/undraw_buy_house_560d.svg
+thumb_img_path: /images/undraw_business_shop_qw5t-1-.svg
+content_img_path: /images/undraw_buy_house_560d-1-.svg
 excerpt: >-
   Tired of managing your delivery boy and remembering change for each order,
   writing down phone number & address on a slip and explaining the route to the
