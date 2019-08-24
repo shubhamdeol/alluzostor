@@ -2,8 +2,8 @@
 title: Online sales karke Aullzo se aapna sales bhadaiye
 subtitle: 'Iska ek sabse aasan tareka ye hai ki app apne, grahako online beche.'
 date: '2018-01-11'
-thumb_img_path: /images/undraw_credit_card_3ed6.svg
-content_img_path: /images/undraw_map_dark_k9pw.svg
+thumb_img_path: /images/undraw_wallet_aym5.svg
+content_img_path: /images/undraw_map_1r69.svg
 excerpt: ''
 template: post
 ---
