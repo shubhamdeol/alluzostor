@@ -2,8 +2,8 @@
 title: 'Alluzo Billing Machine '
 subtitle: App alluzo app se ek chhote blootooth thermal printer ko moblie phone
 date: '2018-01-15'
-thumb_img_path: /images/undraw_arrived_f58d.svg
-content_img_path: /images/undraw_arrived_f58d.svg
+thumb_img_path: /images/undraw_arrived_f58d-1-.svg
+content_img_path: /images/undraw_printing_invoices_5r4r.svg
 excerpt: ''
 template: post
 ---
