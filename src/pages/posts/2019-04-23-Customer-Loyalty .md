@@ -2,8 +2,8 @@
 title: 'Alluzo Entrepreneur in Campus '
 subtitle: '#business idea for college students'
 date: 2019-07-24T18:30:00.000Z
-thumb_img_path: /images/undraw_superhero_kguv.png
-content_img_path: /images/undraw_co-working_825n.png
+thumb_img_path: /images/undraw_mobile_testing_reah.svg
+content_img_path: /images/undraw_conversation_h12g.svg
 excerpt: >-
   We have created a marketplace for college community vendors, who can’t afford
   and maintain their own online presence, to sell online to their nearby
