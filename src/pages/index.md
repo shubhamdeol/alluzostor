@@ -6,7 +6,7 @@ sections:
     content: >-
       Alluzo Store is Digital Raseed Book & 0% commission online orders for
       Restaurants, Food truck, Laundry & Daily Needs Shops.
-    image: /images/undraw_referral_4ki4.svg
+    image: /images/undraw_referral_4ki4-1-.svg
     section_id: home
     title: FREE WhatsApp Bills & Online Orders
     type: heroblock
@@ -65,7 +65,7 @@ sections:
     component: CtaBlock
     section_id: call-to-action
     subtitle: ''
-    title: 'Register on Alluzo Store App - '
+    title: 'Register on Alluzo Store App '
     type: ctablock
   - bg: gray
     component: PostsBlock
