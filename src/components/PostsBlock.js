@@ -7,7 +7,7 @@ import {htmlToReact, getPages, Link, safePrefix} from '../utils';
 export default class PostsBlock extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
-        let recent_posts = display_posts.slice(0, 3);
+        let recent_posts = display_posts;
         return (
             <section id={_.get(this.props, 'section.section_id')} class={'block posts-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div class="block-header inner-small">
