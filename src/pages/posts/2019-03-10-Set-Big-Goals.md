@@ -2,8 +2,8 @@
 title: Why You Should Use Alluzo Store App?
 subtitle: Increase your sales by 10% in first month and upto 30% by third month.
 date: '2019-03-10'
-thumb_img_path: /images/undraw_destinations_fpv7.svg
-content_img_path: /images/undraw_mobile_prototyping_grmd.svg
+thumb_img_path: /images/undraw_mobile_marketing_iqbr.svg
+content_img_path: /images/undraw_social_share_algy.svg
 excerpt: >-
   Increasing sales of your shop using Alluzo App is simple, you should send
   bills using WhatsApp. It has link of your online shop. 
