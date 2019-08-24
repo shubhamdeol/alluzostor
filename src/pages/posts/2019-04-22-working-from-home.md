@@ -1,8 +1,8 @@
 ---
 title: Alluzo Partner is a service for retail vendors to start selling online.
 date: '2019-04-22'
-thumb_img_path: /images/undraw_android_jr64.png
-content_img_path: /images/undraw_destination_6jtj.svg
+thumb_img_path: /images/undraw_product_teardown_elol.svg
+content_img_path: /images/undraw_traveling_t8y2.svg
 excerpt: >-
   We use technology to make ordering online efficient and accessible from every
   retail local stores. We give start to end solution to manage from ordering to
