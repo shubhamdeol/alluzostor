@@ -5,6 +5,10 @@ import _ from 'lodash';
 import {safePrefix} from '../utils';
 import Header from './Header';
 import Footer from './Footer';
+import favicon16 from "../images/favicon16.png";
+import favicon32 from "../images/favicon32.png";
+import favicon64 from "../images/favicon64.png";
+
 
 export default class Body extends React.Component {
     render() {
@@ -17,6 +21,9 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
+                    <link rel="icon" type="image/png" sizes="16x16" href={favicon16} />
+                    <link rel="icon" type="image/png"  sizes="32x32" href={favicon32} />
+                    <link rel="shortcut icon" type="image/png" href={favicon64} />
                 </Helmet>
                 <div id="page" class={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
                   <Header {...this.props} />
