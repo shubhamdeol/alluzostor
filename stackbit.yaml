@@ -656,7 +656,7 @@ models:
         name: secondary
         label: Secondary menu
         description: List of items for Secondary menu
-        items:
+        items:site
           type: site_menu_item
       - type: list
         name: main
