@@ -4,11 +4,11 @@ sections:
   - actions: []
     component: HeroBlock
     content: >-
-      Alluzo Store is Digital Raseed Book & 0% commission online orders for
-      Restaurants, Food truck, Laundry & Daily Needs Shops.
+      Alluzo Store is Digital Raseed/Receipt Book & 0% commission online orders
+      for Restaurants, Food truck & Street Food Vendors
     image: /images/undraw_referral_4ki4-1-.svg
     section_id: home
-    title: FREE WhatsApp Bills & Online Orders
+    title: 'Restaurants Management App  '
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -18,8 +18,8 @@ sections:
           Send WhatsApp bills to your customer for Free. Take the counter order.
           Edit and Delete Bills to maintain digital Raseed Book and generate
           GST, Packaging Charges and More
-        image: /images/iphone-x-xs-–-26-1-.png
-        title: 'FREE WhatsApp Bills '
+        image: /images/iphone-x-xs-–-261.png
+        title: 'Send E-Bills On WhatsApp  '
       - actions: []
         content: >-
           Alluzo Store App is a simple 0% commission and 0 investment digital
