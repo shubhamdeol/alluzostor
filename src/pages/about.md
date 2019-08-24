@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-img_path: /images/undraw_game_day_ucx9.png
+img_path: /images/undraw_game_day_ucx9.svg
 menus:
   secondary:
     title: About Us
@@ -38,8 +38,10 @@ Our goal is to democratize ordering service for its adoption in masses. It is pr
 Ordering Service\
 We have developed our application for Web, Android & iOS platform. It is optimised and responsive to work on all form factors of mobile, tablet and desktop.
 
-We are always pleased to hear from high-calibre individuals. We would stress that we are headhunting for executives right now.Send your resume at ashutosh@ekeekaran.com
+We are always pleased to hear from high-calibre individuals. We would stress that we are headhunting for executives right now.Send your resume at ashutosh@alluzo.com
 
-Getting in touch is easy. Just drop an email, we will get back to you, set up a meeting. Your questions and comments are important to us.Reach out to us at vivek@ekeekaran.com
+Getting in touch is easy. Just drop an email, we will get back to you, set up a meeting. Your questions and comments are important to us.Reach out to us at vivek@alluzo.com
 
-If you are a retail business and looking to sell online, we can provide you with your own website and app powered by Alluzo. We will customise it as per your needs.Send us your query at sales@ekeekaran.com
+If you are a retail business and looking to sell online, we can provide you with your own website and app powered by Alluzo. We will customise it as per your needs.Send us your query.
+
+Contact Details
