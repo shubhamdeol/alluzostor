@@ -2,8 +2,8 @@
 title: Alluzo Store App- Important Links
 subtitle: ''
 date: '2019-03-24'
-thumb_img_path: /images/icon.png
-content_img_path: /images/undraw_mobile_login_ikmv.png
+thumb_img_path: /images/login-screen.png
+content_img_path: /images/undraw_medicine_b1ol.svg
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
