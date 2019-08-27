@@ -60,8 +60,7 @@ sections:
     type: reviewsblock
   - actions:
       - label: Install App Now
-        url: >-
-          https://play.google.com/store/apps/details?id=com.ekeekaran.alluzo.store
+        url: 'https://play.google.com/store/apps/details?id=com.alluzo.store'
     component: CtaBlock
     section_id: call-to-action
     subtitle: ''
