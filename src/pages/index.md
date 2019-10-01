@@ -8,7 +8,7 @@ sections:
       commission online orders for Restaurants, Saloon & More
     image: /images/undraw_referral_4ki4-1-.svg
     section_id: home
-    title: Shop Management App (Raseed Book & Online Orders)
+    title: 'Raseed Book, Online Orders & More'
     type: heroblock
   - bg: gray
     component: FeaturesBlock
