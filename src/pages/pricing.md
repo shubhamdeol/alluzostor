@@ -13,7 +13,7 @@ sections:
           * Daily Sales Reports
           * Weekly Detailed Emails
         price: Rupees 0/Monthly
-        title: Free
+        title: Basic
       - actions:
           - label: Order Now
             url: 'https://p-y.tm/Aimi-HL '
@@ -25,7 +25,7 @@ sections:
           * +All Free Features
         highlight: true
         price: 'Rupees 99/Monthly '
-        title: Basic
+        title: Premium
       - actions:
           - label: Order Now
             url: 'https://p-y.tm/8rv-WNd '
@@ -35,8 +35,8 @@ sections:
           * Alluzo Waiter App 
           * Alluzo Customer App
           * +All Basic Features
-        price: 'Rupees 499/Monthly '
-        title: Premium
+        price: 'Rupees 349/Monthly '
+        title: 'Online Orders '
     section_id: pricing
     subtitle: ''
     title: Pricing Plans
