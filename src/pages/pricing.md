@@ -12,7 +12,7 @@ sections:
           * Add Product & Categories  
           * Daily Sales Reports
           * Weekly Detailed Emails
-        price: Rupees 0/Monthly
+        price: FREE
         title: Basic
       - actions:
           - label: Order Now
