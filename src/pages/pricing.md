@@ -28,7 +28,7 @@ sections:
         title: Premium
       - actions:
           - label: Order Now
-            url: 'https://p-y.tm/8rv-WNd '
+            url: 'https://p-y.tm/8Qcm-dK'
         details: |-
           * 0% Commission Online Order 
           * Alluzo Delivery App  
