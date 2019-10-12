@@ -22,7 +22,7 @@ sections:
           * Create Staff Logins 
           * GST, Discount & Packaging  
           * Priority Customer Support
-          * +All Free Features
+          * +All Basic Features
         highlight: true
         price: 'Rupees 99/Monthly '
         title: Premium
@@ -34,7 +34,7 @@ sections:
           * Alluzo Delivery App  
           * Alluzo Waiter App 
           * Alluzo Customer App
-          * +All Basic Features
+          * +All Premium Features
         price: 'Rupees 349/Monthly '
         title: 'Online Orders '
     section_id: pricing
