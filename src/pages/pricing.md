@@ -32,9 +32,10 @@ sections:
         details: |-
           * 0% Commission Online Order 
           * Alluzo Delivery App  
-          * Alluzo Waiter App 
           * Alluzo Customer App
           * +All Premium Features
+
+          \* Marketing should be done by shop
         price: 'Rupees 349/Monthly '
         title: 'Online Orders '
     section_id: pricing
