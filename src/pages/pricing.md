@@ -16,7 +16,7 @@ sections:
         title: Basic
       - actions:
           - label: Order Now
-            url: 'https://p-y.tm/Aimi-HL '
+            url: 'https://p-y.tm/JL-PlkA'
         details: |-
           * Connect Bluetooth Printer 
           * Create Staff Logins 
@@ -24,11 +24,11 @@ sections:
           * Priority Customer Support
           * +All Basic Features
         highlight: true
-        price: 'Rupees 99/Monthly '
+        price: 'Rupees 299/ 3 Months  '
         title: Premium
       - actions:
           - label: Order Now
-            url: 'https://p-y.tm/8Qcm-dK'
+            url: 'https://p-y.tm/zaFl-kA'
         details: |-
           * 0% Commission Online Order 
           * Alluzo Delivery App  
@@ -36,7 +36,7 @@ sections:
           * +All Premium Features
 
           \* Marketing should be done by shop
-        price: 'Rupees 349/Monthly '
+        price: 'Rupees 999/ 3 Months '
         title: 'Online Orders '
     section_id: pricing
     subtitle: ''
