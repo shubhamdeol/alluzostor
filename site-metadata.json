@@ -1,8 +1,8 @@
 {
-  "title": "Alluzo Store(Digital Raseed/Receipt Book)",
+  "title": "RaseedBook (Digital Raseed/Receipt Book)",
   "palette": "blue",
   "header": {
-    "title": "RaseedBook",
+    "title": "",
     "logo_img": "/images/whatsapp-image-2020-01-28-at-2.25.46-pm.jpeg",
     "has_nav": true,
     "menu": {
@@ -19,14 +19,14 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": false,
     "social_title": "Community",
-    "tagline": "Alluzo Store App by Ekeekaran Ventures Pvt Ltd",
+    "tagline": "RaseedBook App by Ekeekaran Ventures Pvt Ltd",
     "logo_img": "/images/whatsapp-image-2020-01-28-at-2.25.46-pm.jpeg",
     "has_social": true,
     "content": "All rights reserved.",
     "links": [
       {
-        "text": "Alluzo Store App",
-        "url": "http://www.alluzo.com",
+        "text": "RaseedBook Store App",
+        "url": "http://www.raseedbook.com",
         "new_window": true
       }
     ],
