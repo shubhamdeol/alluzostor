@@ -2,7 +2,7 @@
   "title": "Alluzo Store(Digital Raseed/Receipt Book)",
   "palette": "blue",
   "header": {
-    "title": "Alluzo",
+    "title": "RaseedBook",
     "logo_img": "/images/whatsapp-image-2020-01-28-at-2.25.46-pm.jpeg",
     "has_nav": true,
     "menu": {
@@ -20,7 +20,7 @@
     "has_subscribe": false,
     "social_title": "Community",
     "tagline": "Alluzo Store App by Ekeekaran Ventures Pvt Ltd",
-    "logo_img": "/images/iphone-x-xs-–-1.png",
+    "logo_img": "/images/whatsapp-image-2020-01-28-at-2.25.46-pm.jpeg",
     "has_social": true,
     "content": "All rights reserved.",
     "links": [
