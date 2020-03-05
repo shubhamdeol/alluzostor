@@ -8,7 +8,7 @@ sections:
       commission online orders for Restaurants, Saloon & More
     image: /images/undraw_referral_4ki4-1-.svg
     section_id: home
-    title: 'Raseed Book, Online Orders & More'
+    title: 'RaseedBook, Online Orders & More'
     type: heroblock
   - bg: gray
     component: FeaturesBlock
@@ -77,4 +77,3 @@ menus:
     weight: 1
 template: home
 ---
-
