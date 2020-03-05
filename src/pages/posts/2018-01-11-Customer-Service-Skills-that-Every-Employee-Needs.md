@@ -1,5 +1,5 @@
 ---
-title: Online sales karke Aullzo se aapna sales bhadaiye
+title: Online sales karke RaseedBook se aapna sales bhadaiye
 subtitle: 'Iska ek sabse aasan tareka ye hai ki app apne, grahako online beche.'
 date: '2018-01-11'
 thumb_img_path: /images/undraw_wallet_aym5.svg
