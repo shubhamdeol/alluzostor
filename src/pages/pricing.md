@@ -6,7 +6,7 @@ sections:
     pricingplans:
       - actions:
           - label: Install App Now
-            url: 'https://play.google.com/store/search?q=alluzo'
+            url: https://play.google.com/store/search?q=alluzo
         details: |-
           * Send WhatsApp Bills
           * Add Product & Categories  
@@ -16,7 +16,7 @@ sections:
         title: Basic
       - actions:
           - label: Order Now
-            url: 'https://p-y.tm/JL-PlkA'
+            url: https://p-y.tm/JL-PlkA
         details: |-
           * Connect Bluetooth Printer 
           * Create Staff Logins 
@@ -24,11 +24,11 @@ sections:
           * Priority Customer Support
           * +All Basic Features
         highlight: true
-        price: 'Rupees 299/ 3 Months  '
+        price: "Rupees 299 per month  "
         title: Premium
       - actions:
           - label: Order Now
-            url: 'https://p-y.tm/zaFl-kA'
+            url: https://p-y.tm/zaFl-kA
         details: |-
           * 0% Commission Online Order 
           * Alluzo Delivery App  
@@ -36,50 +36,44 @@ sections:
           * +All Premium Features
 
           \* Marketing should be done by shop
-        price: 'Rupees 999/ 3 Months '
-        title: 'Online Orders '
+        price: Rupees 999 per month
+        title: "Online Orders "
     section_id: pricing
-    subtitle: ''
+    subtitle: ""
     title: Pricing Plans
     type: pricingblock
   - bg: gray
     component: FaqBlock
     faqitems:
-      - answer: >-
-          Increase your sales by 10% in first month and upto 30% by third month.
+      - answer: Increase your sales by 10% in first month and upto 30% by third month.
           Increasing sales is simple, you should send bills using WhatsApp. It
           has link of your online shop. Though which your customers can order
           online. Once you send WhatsApp bill Alluzo Store app adds the customer
           in your directory. Which you can use to send your promotional message
           and increase your sales further.
         question: What are benefits of Premium account?
-      - answer: >-
-          You Digital Raseed Book. Using Alluzo Store App, you can send WhatsApp
+      - answer: You Digital Raseed Book. Using Alluzo Store App, you can send WhatsApp
           bills, take our Paper bills/KOT using cost effective (Rs 2,700) yet
           robust  Bluetooth Printer. At the end of the day you will reports with
-          sales, payment & other details. You can create staff login to manage 
-          your shop remotely
+          sales, payment & other details. You can create staff login to
+          manage  your shop remotely
         question: What are the benefits of Basic Account?
-      - answer: >-
-          Instantaneously, once you have completed the payment. If not then
+      - answer: Instantaneously, once you have completed the payment. If not then
           contact us through help segment of Alluzo Store App.
         question: When will my Basic/ Premium get activated?
-      - answer: >-
-          You can purchase bluetooth thermal printer from the links give in the
+      - answer: You can purchase bluetooth thermal printer from the links give in the
           Help segment of Alluzo Store App. Once, you have purchased the printer
           you can connect it Alluzo Store App to take out bills
         question: How can I do Paper Billing?
-      - answer: >-
-          Printer gets connected automatically.  For first time you need to
+      - answer: Printer gets connected automatically.  For first time you need to
           connect Alluzo Store App with printer. After that every-time you open
           app printer gets connected , just like your bluetooth earphones.
-        question: 'Does printer needs to be paired, everytime? '
-      - answer: >-
-          Yes WhatsApp bills are absolutely free. Upload your menu and start
+        question: "Does printer needs to be paired, everytime? "
+      - answer: Yes WhatsApp bills are absolutely free. Upload your menu and start
           sending WhatsApp Bills now
         question: Is WhatsApp bills free?
     section_id: faq
-    subtitle: ''
+    subtitle: ""
     title: Frequently Asked Questions
     type: faqblock
 menus:
@@ -88,4 +82,3 @@ menus:
     weight: 3
 template: pricing
 ---
-
