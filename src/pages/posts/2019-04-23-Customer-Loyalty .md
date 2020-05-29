@@ -1,12 +1,11 @@
 ---
-title: 'Alluzo Entrepreneur in Campus '
-subtitle: '#business idea for college students'
+title: "Alluzo Entrepreneur in Campus "
+subtitle: "#business idea for college students"
 date: 2019-07-24T18:30:00.000Z
 thumb_img_path: /images/undraw_mobile_testing_reah.svg
 content_img_path: /images/undraw_conversation_h12g.svg
-excerpt: >-
-  We have created a marketplace for college community vendors, who can’t afford
-  and maintain their own online presence, to sell online to their nearby
+excerpt: We have created a marketplace for college community vendors, who can’t
+  afford and maintain their own online presence, to sell online to their nearby
   students. For this purpose, we are developing three apps; you can find these
   apps in PlayStore & AppStore.
 template: post
@@ -17,11 +16,11 @@ template: post
 
 We have created a marketplace for college community vendors, who can’t afford and maintain their own online presence, to sell online to their nearby students. For this purpose, we are developing three apps; you can find these apps in PlayStore & AppStore.
 
-**Alluzo Store App:** Vendors can sign up on Alluzo Store app, upload their products and select area on the map where they want to do doorstep delivery by their own delivery boys. It helps vendors provide a more holistic purchase experience to their regular customers.
+**RaseedBook App:** Vendors can sign up on Alluzo Store app, upload their products and select area on the map where they want to do doorstep delivery by their own delivery boys. It helps vendors provide a more holistic purchase experience to their regular customers.
 
-**Alluzo User App:** We have a single app on which students can order from all the nearby vendors for delivery or pickup and track their order status.
+**Alluzo Ordering App:** We have a single app on which students can order from all the nearby vendors for delivery or pickup and track their order status.
 
-**Alluzo Pilot App:** Most of the vendors have their own delivery guys. The pilot app is for their delivery guys which will allow them to manage their delivery fleet better. It helps them with order allocation, offers real-time tracking for the user and ensures timely delivery.
+**Delivery App:** Most of the vendors have their own delivery guys. The pilot app is for their delivery guys which will allow them to manage their delivery fleet better. It helps them with order allocation, offers real-time tracking for the user and ensures timely delivery.
 
 Long Term-
 
