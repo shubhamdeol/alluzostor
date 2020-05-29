@@ -17,7 +17,7 @@ sections:
     section_id: ""
 menus:
   secondary:
-    title: f
+    title: ""
   main:
-    title: f
+    title: ""
 ---
