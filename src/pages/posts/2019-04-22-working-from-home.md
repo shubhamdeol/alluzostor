@@ -1,15 +1,14 @@
 ---
-title: Alluzo Partner is a service for retail vendors to start selling online.
-date: '2019-04-22'
+title: "Sell Online to your nearby customers "
+date: 2019-04-22
 thumb_img_path: /images/undraw_product_teardown_elol.svg
 content_img_path: /images/undraw_traveling_t8y2.svg
-excerpt: >-
-  We use technology to make ordering online efficient and accessible from every
-  retail local stores. We give start to end solution to manage from ordering to
-  delivery at customer’s doorstep.
+excerpt: We use technology to make ordering online efficient and accessible from
+  every retail local stores. We give start to end solution to manage from
+  ordering to delivery at customer’s doorstep.
 template: post
 ---
-**STEP- 1 Download the Alluzo Partner App**
+**STEP- 1 Download the RaseedBook App**
 
 **Any shop owner around the world can download our vendor app register his/her shop.**
 
