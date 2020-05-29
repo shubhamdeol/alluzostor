@@ -2,7 +2,7 @@
   "title": "RaseedBook - Digitising Cash Memo & Increasing Sales  ",
   "palette": "blue",
   "header": {
-    "title": "",
+    "title": "Billing and Online Selling App ",
     "logo_img": "/images/whatsapp-image-2020-01-28-at-2.25.46-pm.jpeg",
     "has_nav": true,
     "menu": {
@@ -17,9 +17,9 @@
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "has_subscribe": false,
+    "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "RaseedBook App by Ekeekaran Ventures Pvt Ltd",
+    "tagline": "RaseedBook ",
     "logo_img": "/images/artboard-–-9.png",
     "has_social": true,
     "content": "All rights reserved.",
