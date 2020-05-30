@@ -13,11 +13,16 @@ sections:
     component: FeaturesBlock
     featureslist:
       - actions: []
-        content: Send WhatsApp bills to your customer for Free. Take the counter order.
-          Edit and Delete Bills to maintain digital Raseed Book and generate
-          GST, Packaging Charges and More
+        content: >-
+          **Sell Online :** Since COVID, customers are more likely to order
+          online. Get custom QR codes for your shop which enable users to view
+          your shop directly on Alluzo app.\
+
+          \
+
+          **Digital Bill :** Send Free Invoices via SMS or WhatsApp to your customers. Create custom receipts with your business info, logo and online shop link.
         image: /images/iphone-x-xs-–-261.png
-        title: "Send Invoices via Free SMS or WhatsApp   "
+        title: "Sell More "
       - actions: []
         content: Alluzo Store App is a simple 0% commission and 0 investment digital
           shop solution for small vendors to start selling online to their
