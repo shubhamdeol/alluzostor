@@ -59,7 +59,7 @@ sections:
     component: CtaBlock
     section_id: call-to-action
     subtitle: ""
-    title: "Register on Alluzo Store App "
+    title: Register on RaseedBook App
     type: ctablock
   - bg: gray
     component: PostsBlock
